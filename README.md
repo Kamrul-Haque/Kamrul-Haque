@@ -1,16 +1,20 @@
-### Hi there 👋
+## I am a passionate **programmer** who has learned C, C++, C#, PHP programming language over the last few years.
 
-<!--
-**Kamrul-Haque/Kamrul-Haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently working on
+-  PHP Laravel Framework
+-  MySQL
+-  Bootstrap
+-  jQuery
 
-Here are some ideas to get you started:
+### I also know
+- C# .Net Framwork
+- Unity Programming
+- Unity 2D Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am familier with
+- Vue.js
+- TailwindCSS
+
+### I am currently learning
+- Building a single page application using Vue Spa with Laravel
+- Using TailwindCss with Vue.js for component based front end development
