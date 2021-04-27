@@ -7,7 +7,7 @@
 -  jQuery
 
 ### I also know
-- C# .Net Framwork
+- C# .Net Framwork(basics)
 - Unity Programming
 - Unity 2D Game Development
 
