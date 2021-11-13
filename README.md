@@ -16,5 +16,5 @@
 - TailwindCSS
 
 ### I am currently learning
-- Building a single page application using Vue Spa with Laravel
+- Building a single page application using Vue, Inertia & Laravel
 - Using TailwindCss with Vue.js for component based front end development
