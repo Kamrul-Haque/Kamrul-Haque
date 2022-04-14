@@ -3,18 +3,17 @@
 ### I’m currently working on
 -  PHP Laravel Framework
 -  MySQL
+-  Vue.js
+-  inertia.js
+-  Vuetify
 -  Bootstrap
--  jQuery
+-  JQuery
+
+### I am familier with
+- TailwindCSS
 
 ### I also know
 - C# .Net Framwork(basics)
 - Unity Programming
 - Unity 2D Game Development
-
-### I am familier with
-- Vue.js
-- TailwindCSS
-
-### I am currently learning
-- Building a single page application using Vue, Inertia & Laravel
-- Using TailwindCss with Vue.js for component based front end development
+- MATLAB(basics)
