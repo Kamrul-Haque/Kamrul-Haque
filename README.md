@@ -15,5 +15,7 @@
 ### I also know
 - C# .Net Framwork(basics)
 - Unity Programming
-- Unity 2D Game Development
+- Unity Game Development
 - MATLAB(basics)
+- Prolog(basics)
+- QBasic(basics)
