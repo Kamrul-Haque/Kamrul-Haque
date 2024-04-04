@@ -16,7 +16,7 @@
 -  Docker
 -  Git
 
-### I am familier with
+### I am comforable with
 - AWS
 - Amazon S3
 - CI/CD
@@ -28,12 +28,12 @@
 - C
 - C++
 - C#
-- MATLAB(basics)
-- Prolog(basics)
-- QBasic(basics)
-- .NET(basics)
+- MATLAB
+- Prolog
+- QBasic
+- .NET
 - Unity Programming
-- Unity Game Development
+- Game Development
 
 ### Tools
 - Jira
