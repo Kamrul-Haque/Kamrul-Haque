@@ -18,10 +18,11 @@
 
 ### I am familier with
 - AWS
-- S3 Bucket
+- Amazon S3
 - CI/CD
 - Redis
 - PostgreSQL
+- SQL Server
 
 ### I also know
 - C
@@ -30,6 +31,16 @@
 - MATLAB(basics)
 - Prolog(basics)
 - QBasic(basics)
-- .Net Framwork(basics)
+- .NET(basics)
 - Unity Programming
 - Unity Game Development
+
+### Tools
+- Jira
+- Slack
+- Postman
+- UML
+- Power BI
+- Composer
+- NPM
+
